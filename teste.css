@@ -1,0 +1,28 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: white;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.quadrado{
+    width: 300px;
+    height:300px;
+}
+.paragrafo{
+    color: white;
+    font-size: 15px;
+}
+.link{
+    padding-top: 20px;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
