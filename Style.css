@@ -6,10 +6,7 @@ h1{
 body{
     background-color: lightpink;
 }
-.imagem{
-    width: 500px;
-    height: 500px;
-}
+
 #paragrafo{
     color: red;
     font-size: 20px;
